@@ -3,7 +3,7 @@
 ## In this capstone, we aim to predict Falcon 9 first stage landing success to evaluate launch costs, essential for potential SpaceX competitors, providing a problem overview and necessary tools.
 
 # :rocket: Applied Data Science Capstone
-This Capstone is the 10th (final) course in [IBM Applied Data Science Specialization Certificate](https://[www.coursera.org/specialization-certificates/ibm-data-science], and it actually summarizes in the form of project all materials that have been learned during this specialization.
+This Capstone is the 10th (final) course in [www.coursera.org/specialization-certificates/ibm-data-science], and it actually summarizes in the form of project all materials that have been learned during this specialization.
 ## :page_facing_up: Project Background
 SpaceX is the most successful company of the commercial space 
 age, making space travel affordable. The company advertises Falcon 
